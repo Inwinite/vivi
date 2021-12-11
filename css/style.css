@@ -1,0 +1,180 @@
+
+/* encabezado*/
+.encabezado{
+    background-image: url(../img/arriba.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.hv-50{
+    height: 50vmin;
+}
+
+/* menu fondo parrafo*/
+.otro {
+    background-color: rgba(8, 7, 0, 0.247);
+    background-position: left;
+    background-size: cover;
+}
+/* menu*/
+nav.navbar{
+    font-family: 'Fredoka One', cursive;
+    
+}
+.nav-item:hover{
+    font-size: 18px;
+}
+
+.container-fluid{
+    grid-area: auto;
+}
+
+/* formulario*/
+:root {
+ 
+    --primary: hsl(32, 26%, 48%);
+    background: #df631b65;
+    font-family: 'Architects Daughter', cursive; 
+  }      
+   
+  .btn {
+    font-family: 'Architects Daughter', cursive;
+    border-radius: 90px;
+    letter-spacing: 1.25px;
+    background: initial;
+    block-size: 50px;
+    display: block;
+    cursor: pointer;
+    user-select: none;
+    box-sizing: border-box;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 50px;
+    border: 2px solid var(--black);
+    font-weight: bold;
+    padding: 0 1.5em;
+  }
+  .btn.full {
+    width: 100%;
+  }
+  
+  .btn.primary {
+    background: var(--primary);
+  }
+      
+  .form {
+    max-inline-size: 550px;
+    margin: auto;
+    color:rgb(253, 252, 252);
+    background-color: rgba(243, 187, 82, 0.13);
+  }
+  
+  .form label {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: .5em;
+    padding-inline-start: .5em;
+    
+  }
+  
+  .form label span {
+    color: #f59607;
+  }
+  
+  .form input, .form textarea {
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 1rem;
+    padding: .8em;
+    border-radius: .5em;
+    border: 1px solid #927105;
+    background-color: rgba(255, 255, 255, 0.562);
+  }
+  .form textarea {
+    margin-block-end: 2em;
+    font-family: inherit;
+    background-color:rgba(240, 227, 192, 0.562);
+  }
+  
+  input::-webkit-input-placeholder {
+    color: #2b2c0388;
+  }
+  
+  .contact {
+    margin-block-end: 5em;
+  } 
+  
+  #envio {
+    opacity: 0;
+  }
+  
+ /* footer*/ 
+.footer-content-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    font-family: 'Fredoka One', cursive;
+}
+
+footer .website-logo{
+    margin-bottom: 1.2rem;
+    font-size: calc(1vw + 20px);
+}
+
+.footer-info, .menu-item-footer{
+    margin: 0.2rem 0;
+    opacity: 0.7;
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.menu-item-footer:hover{
+    opacity: 1;
+}
+.pie-pagina{
+   
+    background-color: #00060c;
+}
+.pie-pagina .grupo-1{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(3, 5fr);
+    grid-gap:50px;
+    padding: 35px 0px;
+}
+
+.pie-pagina .grupo-1 .box h2{
+    color: #fff;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+.pie-pagina .grupo-1 .box p{
+    color: #efefef;
+    margin-bottom: 10px;
+}
+.pie-pagina .grupo-2{
+    background-color: #815f16;
+    font-family: 'Fredoka One', cursive;
+    padding: 15px 10px;
+    text-align: center;
+    color: #fff;
+}
+.social-links{
+    display: inline-flex;
+    content: "";
+    vertical-align: -.125em;
+    background-repeat: no-repeat;
+    background-size: 5rem 5rem;
+}
+.bi{
+    color: rgb(3, 0, 0);
+}
+.btn-outline-secondary{
+    background-color: rgba(246, 250, 249, 0.192);
+}
+ 
+

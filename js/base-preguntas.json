@@ -1,0 +1,270 @@
+[
+    
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Lo que describe una prosopografía.",
+        "respuesta": "El Físico De Una Persona",
+        "incorrecta1": "La estructura de un Poema",
+        "incorrecta2": "El Autor De Una Obra En Prosa",
+        "incorrecta3": "Un Auto\r"
+        
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor español que firmaba como Fígaro.",
+        "respuesta": "Mariano José De Larra",
+        "incorrecta1": "Mercedes Abad",
+        "incorrecta2": "Fígaro",
+        "incorrecta3": "Manuel Vázquez Montalbán\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "donde pertenece la colección de relatos folklóricos llamada Mabinogion",
+        "respuesta": "Gales",
+        "incorrecta1": "Alejandría",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Irlanda Del Norte\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "escribió la música del himno de la Comunidad de Valencia",
+        "respuesta": "José Serrano Simeón",
+        "incorrecta1": "Pedro Figueredo",
+        "incorrecta2": "Antonio Neumane",
+        "incorrecta3": "Ludwig Van Beethoven"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Obra a la que pertenece este fragmento: 'No es verdad, ángel de amor, que en esta apartada orilla...'",
+        "respuesta": "Don Juan Tenorio",
+        "incorrecta1": "La Tempestad",
+        "incorrecta2": "Macbeth",
+        "incorrecta3": "Hamlet \r"
+    },
+    
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "famosa artista que estaba casada con su colega, Diego Rivera",
+        "respuesta": "Frida Kahlo",
+        "incorrecta1": "Artemisia Gentileschi",
+        "incorrecta2": "Mary Cassatt",
+        "incorrecta3": "Camille Claudel\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la cantante que publicó en 2008 el álbum \"Hard  Candy\"?",
+        "respuesta": "Madonna",
+        "incorrecta1": "Britney Spears",
+        "incorrecta2": "Rihanna",
+        "incorrecta3": "Shakira\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuáles son los nombres de \"Los Tres Chiflados\"?",
+        "respuesta": "Moe, Larry Y Curly",
+        "incorrecta1": "Mio, Luck, Patrick",
+        "incorrecta2": "Bart, Luck Y Loles",
+        "incorrecta3": "Mou, Larri Y Carly\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué quería comerse Alf?",
+        "respuesta": "Al Gato",
+        "incorrecta1": "A Willie",
+        "incorrecta2": "A Lynn",
+        "incorrecta3": "Las Plantas\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Dónde nació John Lennon?",
+        "respuesta": "Liverpool",
+        "incorrecta1": "Dublin",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Hamburgo\r"
+    },
+   
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de estas películas ganó el Óscar a la mejor película?",
+        "respuesta": "Patton",
+        "incorrecta1": "Apocalypse Now",
+        "incorrecta2": "La Delgada Línea Roja",
+        "incorrecta3": "Salvar Al Soldado Ryan\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Filme con que el director Alfonso Cuarón ganó un premio Oscar 2014?",
+        "respuesta": "Gravity",
+        "incorrecta1": "Lo Que El Agua Se Llevo",
+        "incorrecta2": "Harry Potter",
+        "incorrecta3": "The X Men\r"
+       
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor de \"El principito\".",
+        "respuesta": "Antoine De Saint Exupery",
+        "incorrecta1": "Edgar Allan Poe",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Goya\r"
+       
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Estilo artístico que es la catedral de Santa María de Toledo.",
+        "respuesta": "Gótico",
+        "incorrecta1": "  Barroco",
+        "incorrecta2": "Neoclásico",
+        "incorrecta3": "Manierista\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escribió 'Don Juan Tenorio'.",
+        "respuesta": "Jose Zorrilla",
+        "incorrecta1": "Antoine De Saint Exupery",
+        "incorrecta2": "Edgar Allan Poe",
+        "incorrecta3": "Gabriel García Márquez\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pseudónimo con que se conocía al escritor José Martínez Ruiz.",
+        "respuesta": "Azorín",
+        "incorrecta1": " Lope De Vega",
+        "incorrecta2": "Lord Byron",
+        "incorrecta3": "El Greco\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién escribió el poema cuyo inicio es \"Pegasos, lindos Pegasos, caballitos de madera\".?",
+        "respuesta": "Antonio Machado",
+        "incorrecta1": "Pablo Neruda",
+        "incorrecta2": "Antonio Gamoneda",
+        "incorrecta3": "Jorge Edwards\r"
+    },
+    
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género teatral intermedio entre la comedia y la tragedia.",
+        "respuesta": "Drama",
+        "incorrecta1": "Suspenso",
+        "incorrecta2": "Poesía",
+        "incorrecta3": "Novela\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Autor del libro \"Once minutos\".",
+        "respuesta": "Paulo Coelho",
+        "incorrecta1": "Antonio Machado",
+        "incorrecta2": "Pablo Neruda",
+        "incorrecta3": "Antonio Gamoneda\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Material del que está hecho un saxofón.",
+        "respuesta": "Latón",
+        "incorrecta1": "Cromo",
+        "incorrecta2": "Cobalto",
+        "incorrecta3": "Cobre\r"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintó el famoso cuadro de pop art 'Latas de sopa Campbell'.",
+        "respuesta": "Andy Warhol",
+        "incorrecta1": "Roy Lichtenstein",
+        "incorrecta2": "David Hockney",
+        "incorrecta3": "Robert Rauschenberg\r"
+      
+    },
+   
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+        "respuesta": "Youtube",
+        "incorrecta1": "Cinetube",
+        "incorrecta2": "Glooge",
+        "incorrecta3": "Videotube\r"
+    },
+  
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Sistema operativo para telefonos más usado",
+        "respuesta": "Android",
+        "incorrecta1": "IOS",
+        "incorrecta2": "Microsoft",
+        "incorrecta3": "Windows\r"
+    },
+    
+   
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el músculo causante del espasmo muscular \"Torticolis\"?",
+        "respuesta": "Esternocleidomastoideo",
+        "incorrecta1": "Occipitofrontal",
+        "incorrecta2": "Complexo Mayor",
+        "incorrecta3": "Esplenio De La Cabeza\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se conoce el virus del SIDA?",
+        "respuesta": "VIH",
+        "incorrecta1": "VPH",
+        "incorrecta2": "ARN",
+        "incorrecta3": "HBV\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Por qué compuesto químico está formada la lavandina?",
+        "respuesta": "Hipoclorito De Sodio",
+        "incorrecta1": "Cloruro De Sodio ",
+        "incorrecta2": "Perclorato De Aluminio",
+        "incorrecta3": "Yoduro De Cobre\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Quién fue el inventor de la bombilla?",
+        "respuesta": "Edison",
+        "incorrecta1": "Newton",
+        "incorrecta2": "Fahrenheit",
+        "incorrecta3": "Janssen\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿qué es 3,1415926535897…?",
+        "respuesta": "PI",
+        "incorrecta1": "PHI",
+        "incorrecta2": "E",
+        "incorrecta3": "CHI\r"
+    },
+   
+    
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué viaje Colón encontró a los mayas?",
+        "respuesta": "Cuarto",
+        "incorrecta1": "Tercero",
+        "incorrecta2": "Segundo",
+        "incorrecta3": "Primero\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús?",
+        "respuesta": "Barrabás",
+        "incorrecta1": "Judas",
+        "incorrecta2": "José De Arimatea",
+        "incorrecta3": "Jordi Hurtado\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué año viajó el primer hombre a la luna?",
+        "respuesta": "1969",
+        "incorrecta1": "1968",
+        "incorrecta2": "1979",
+        "incorrecta3": "1957\r"
+    }
+  
+    
+
+]
+    
+  
